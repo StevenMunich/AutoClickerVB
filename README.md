@@ -10,3 +10,13 @@ https://github.com/StevenMunich/AutoClicker/blob/main/MousePositionAndAutoClicke
 
 Java Version here:
 https://github.com/StevenMunich/AutoClicker-with-GlobalKeyListener
+
+
+Features to add: drap& drop (hold)+(move)
+1-Left click hold without release
+2-Right click hold without release
+combined with move = drag&drop
+
+3mousewheel up
+4mousewheel down.
+
