@@ -1,6 +1,7 @@
 
 https://stevenmunich.github.io/AutoClicker/
-{!boxt](https://stevenmunich.github.io/AutoClicker/autoclick.jpg)
+
+![Alt text](https://stevenmunich.github.io/AutoClicker/autoclick.jpg)
 
 
 Download .exe
