@@ -1,0 +1,10 @@
+These steps are for creating an auto-caller in Google Voice.
+If you already have a gmail account getting google voice should be easy. 
+once you have it you can start on the auto-caller
+
+So what is the point? It ties up phone lines; its like a ddoser for the phone.
+Calls then it hangs up, leave this on for hours and people get PISSED.
+
+When you have set up your autocaller you may want to watch TV or do something else for a while, while the victim
+is getting call after call. This program will take over the mouse & keyboard so you will not be able to use the computer.
+However, the whole point of this program is so you dont have to be on a computer.
