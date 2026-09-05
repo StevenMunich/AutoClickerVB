@@ -14,9 +14,9 @@ Form3.vb is the code you want to look at, form 1 and 2 are both prototypes. Form
 ![Alt text](https://stevenmunich.github.io/AutoClicker/autoclick.jpg)
 
 To Download click Deskbot.exe and follow picture, microsoft is copying android again sadly. There is no network connections.
-![Alt text](https://stevenmunich.github.io/AutoClicker/2Download.jpg)
+![Alt text](https://stevenmunich.github.io/AutoClicker/Download.jpg)
 report as a safe app
-![Alt text](https://stevenmunich.github.io/AutoClicker/Safe App.png)
+![Alt text](https://stevenmunich.github.io/AutoClicker/SafeApp.png)
 
 
 Download .exe
