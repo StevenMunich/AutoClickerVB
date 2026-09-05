@@ -12,9 +12,10 @@ https://stevenmunich.github.io/AutoClicker/
 Form3.vb is the code you want to look at, form 1 and 2 are both prototypes. Form3 is set to launch at start of .exe file
 
 ![Alt text](https://stevenmunich.github.io/AutoClicker/autoclick.jpg)
-
+<br />
 To Download click Deskbot.exe and follow picture, microsoft is copying android again sadly. There is no network connections.
 ![Alt text](https://stevenmunich.github.io/AutoClicker/Download.jpg)
+<br />
 report as a safe app
 ![Alt text](https://stevenmunich.github.io/AutoClicker/SafeApp.png)
 
